@@ -1,0 +1,3 @@
+Model,Precision,Recall,F1-Score
+DeepLOB,0.4604,0.4329,0.3354
+T-KAN,0.5343,0.4748,0.3995
